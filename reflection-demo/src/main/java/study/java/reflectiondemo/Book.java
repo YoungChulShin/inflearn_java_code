@@ -1,5 +1,6 @@
 package study.java.reflectiondemo;
 
+@MyAnnotation
 public class Book {
 
     private static String B = "BOOK";
